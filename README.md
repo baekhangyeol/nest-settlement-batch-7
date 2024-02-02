@@ -63,5 +63,5 @@ Ran all test suites.
 
 ## ✏️ 과제 진행 요구 사항
 
-- 미션은 [미션레포](#{ 미션 레포 주소 }) 저장소를 Fork & Clone 하고 시작한다.
+- 미션은 [nest-settlement-batch-7](https://github.com/eojjeoda-nest/nest-settlement-batch-7) 저장소를 Fork & Clone 하고 시작한다.
 - **기능을 구현하기 전 `README.md`에 구현할 기능/예외처리를 목록으로 정리**해 추가한다.
